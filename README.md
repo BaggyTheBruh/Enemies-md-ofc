@@ -30,7 +30,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/unlimited787/Enemies-md-ofc && cd Enemies-md-ofc
+clone git https://github.com/BaggyTheBruh/Enemies-md-ofc
 ```
 
 ```bash
